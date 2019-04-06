@@ -48,7 +48,7 @@ Bottle is a fast, simple and lightweight WSGI_ micro web-framework for Python_. 
 Homepage and documentation: http://bottlepy.org
 
 
-Example: "Hello World" in a bottle
+Example: "Hello World" in a bottle mofied to run in docker
 ----------------------------------
 
 .. code-block:: python
